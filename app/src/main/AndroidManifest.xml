@@ -13,7 +13,7 @@
             android:value="true" />
         <meta-data
             android:name="xposeddescription"
-            android:value="Disable sponsored message for TelegramX" />
+            android:value="Disable sponsored messages for Telegram-X and forks" />
         <meta-data
             android:name="xposedminversion"
             android:value="53" />

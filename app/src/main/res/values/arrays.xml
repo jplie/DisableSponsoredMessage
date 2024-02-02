@@ -2,5 +2,8 @@
 <resources>
     <string-array name="need_module">
         <item>org.thunderdog.challegram</item>
+        <item>moe.kirao.mgx</item>
+        <item>com.tgxalpha</item>
+        <item>com.jasonkhew96.pigeongramx</item>
     </string-array>
 </resources>
