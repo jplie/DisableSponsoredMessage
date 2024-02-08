@@ -13,7 +13,7 @@ class XposedMain : IXposedHookLoadPackage {
             runCatching {
                 XposedHelpers.findAndHookMethod(
                     Class.forName(
-                        "org.drinkless.td.libcore.telegram.TdApi\$GetChatSponsoredMessages",
+                        "org.drinkless.tdlib.TdApi\$GetChatSponsoredMessages",
                         false,
                         lpparam.classLoader
                     ),
